@@ -84,8 +84,7 @@ Gestion des frais académiques.
 
 📱 WhatsApp : https://wa.me/243978147615
 
-🌐 Facebook : Jules Michel Kab
+🌐 Facebook : [Jules Michel Kab](https://facebook.com/JulesMichelKab)
 
-🎵 TikTok : @DigitalSoft_Congo
-
+🎵 TikTok :[ @DigitalSoft_Congo](https://www.tiktok.com/@DigitalSoft_Congo)
 Fondateur : Ir Michel Jules Kabinda
