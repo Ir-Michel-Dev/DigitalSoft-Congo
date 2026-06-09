@@ -3,7 +3,6 @@
 </p>
 
 # DigitalSoft Congo
-# DigitalSoft Congo
 
 ## À propos de nous
 DigitalSoft Congo est une startup technologique basée à Kinshasa, RDC.
