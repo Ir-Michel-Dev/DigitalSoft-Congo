@@ -42,11 +42,36 @@ Gestion des frais académiques et du suivi administratif universitaire.
 * Réseaux Informatiques
 
 ## Équipe
-
 DigitalSoft Congo est composée de jeunes informaticiens passionnés par la technologie et l'innovation.
+
+## Nos projets
+
+### SGFS - Système de Gestion des Frais Scolaires
+
+Solution de gestion des frais scolaires et des paiements.
+
+🔗 [Voir le projet SGFS](https://github.com/Ir-Michel-Dev/Systeme-Gestion-Frais-Scolaires)
+
+### Système de Gestion Hospitalière
+
+Gestion des patients, rendez-vous et facturation.
+
+🔗 Projet en préparation
+
+### Système de Gestion d'Église
+
+Gestion des dîmes et des offrandes.
+
+🔗 Projet en préparation
+
+### Système de Gestion Départementale
+
+Gestion des frais académiques.
+
+🔗 Projet en préparation
 
 ## Contact
 
 Kinshasa, République Démocratique du Congo
 
-Fondateur : Michel Jules Kabinda
+Fondateur : Ir Michel Jules Kabinda
