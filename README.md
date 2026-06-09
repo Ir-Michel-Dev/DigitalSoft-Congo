@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="IMG-20260217-WA0048.jpg" width="250">
+</p>
+
+# DigitalSoft Congo
 # DigitalSoft Congo
 
 ## À propos de nous
