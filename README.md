@@ -8,31 +8,21 @@
 DigitalSoft Congo est une startup technologique basée à Kinshasa, RDC.
 Nous accompagnons les écoles, centres de santé, hôpital, églises, entreprises et institutions dans leur transformation numérique grâce à des solutions logicielles adaptées à leurs besoins.
 
-## Nos domaines d'intervention
-* Développement d'applications de gestion
-* Numérisation des organisations
-* Formation en informatique Bureautique (Word, Excel, PowerPoint...)
-* Formation en Réseaux informatiques
-* Base de données
-* Génie Logiciel
-* Support technique
-* Maintenance des systèmes
+## 🚀 Nos réalisations
 
-## Nos réalisations
-
-### SGFS - Système de Gestion des Frais Scolaires
+### 🏫 SGFS - Système de Gestion des Frais Scolaires
 Solution permettant la gestion des paiements scolaires, des élèves, des personnels enseignants, charge horaire, des rapports et du suivi administratif.
 
-### Système de Gestion Hospitalière
+### 🏥 Système de Gestion Hospitalière
 Gestion des patients, Gestion du corps médical, rendez-vous, consultations, facturation et suivi médical.
 
-### Système de Gestion d'Église
+### ⛪ Système de Gestion d'Église
 Gestion des dîmes, offrandes, membres et rapports financiers.
 
-### Système de Gestion Départementale
+### 🎓 Système de Gestion Départementale
 Gestion des frais académiques et du suivi administratif universitaire.
 
-## Nos services de formation
+## 📚 Nos services de formation
 
 * Initiation à l'informatique
 * Microsoft Word
@@ -45,6 +35,16 @@ Gestion des frais académiques et du suivi administratif universitaire.
 * Génie logiciel
 * Réseaux Informatiques
 
+## Nos domaines d'intervention
+* Développement d'applications de gestion
+* Numérisation des organisations
+* Formation en informatique Bureautique (Word, Excel, PowerPoint...)
+* Formation en Réseaux informatiques
+* Base de données
+* Génie Logiciel
+* Support technique
+* Maintenance des systèmes
+* 
 ## Équipe
 DigitalSoft Congo est composée de jeunes informaticiens passionnés par la technologie et l'innovation.
 
@@ -76,6 +76,16 @@ Gestion des frais académiques.
 
 ## Contact
 
-Kinshasa, République Démocratique du Congo
+## 📞 Contact
+
+📍 Kinshasa, République Démocratique du Congo
+
+📧 [michelkabindamuteba@gmail.com](mailto:michelkabindamuteba@gmail.com)
+
+📱 WhatsApp : https://wa.me/243978147615
+
+🌐 Facebook : Jules Michel Kab
+
+🎵 TikTok : @DigitalSoft_Congo
 
 Fondateur : Ir Michel Jules Kabinda
