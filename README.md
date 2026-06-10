@@ -69,9 +69,7 @@ Gestion des dîmes et des offrandes.
 
 ### Système de Gestion Départementale
 
-Gestion des frais académiques.
-
-🔗 Projet en préparation
+🔗 [Voir le projet](https://github.com/Ir-Michel-Dev/Systeme-Gestion-academique)
 
 ## Contact
 
