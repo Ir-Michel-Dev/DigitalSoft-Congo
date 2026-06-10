@@ -71,10 +71,6 @@ Gestion des dîmes et des offrandes.
 
 🔗 [Voir le projet](https://github.com/Ir-Michel-Dev/Systeme-Gestion-academique)
 
-## 🎥 Démonstration vidéo
-
-[![Voir la démonstration](Congo.mp4)
-
 ## Contact
 
 ## 📞 Contact
