@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMG-20260217-WA0048.jpg" width="250">
+  <img src="IMG-20260217-WA0048.jpg" width="300">
 </p>
 
 # DigitalSoft Congo
