@@ -59,9 +59,7 @@ Solution de gestion des frais scolaires et des paiements.
 ### Système de Gestion Hospitalière
 
 Gestion des patients, rendez-vous et facturation.
-🔗 [Voir le projet SGFS](https://github.com/Ir-Michel-Dev/Système-Gestion-Hospitalièr)
-
-🔗 Projet en préparation
+🔗[Voir le projet](https://github.com/Ir-Michel-Dev/Systeme-Gestion-Hospitaliere)
 
 ### Système de Gestion d'Église
 
